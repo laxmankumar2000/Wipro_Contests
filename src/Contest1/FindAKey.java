@@ -61,16 +61,16 @@ public class FindAKey {
 
 
         //to find Max and min value for all inputs
-        int  Max1 =  MaxFind(input1);
-        int Min1  = MinFind(input1);
-        int Max2 = MaxFind(input2);
-        int Min2 = MinFind(input2);
-        int Max3 = MaxFind(input3);
-        int Min3 = MinFind(input3);
+        int  Max1 =  MaxFind(input1);                //5
+        int Min1  = MinFind(input1);                 //1
+        int Max2 = MaxFind(input2);                  //5
+        int Min2 = MinFind(input2);                  //2
+        int Max3 = MaxFind(input3);                  //5
+        int Min3 = MinFind(input3);                  //1
 
         //calculated key
-        int key = ((Max1 + Max2 + Max3 ) + ( Min1 + Min2 + Min3));
-        System.out.println("your key is = " + key);
+        int key = ((Max1 + Max2 + Max3 ) + ( Min1 + Min2 + Min3));               //((5+5+5)+(1+2+1))
+        System.out.println("your key is = " + key);                              // Your key is  = 19
 
 
 
