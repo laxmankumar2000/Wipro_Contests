@@ -4,6 +4,9 @@ package Contest1;
 /*
 Program1
 
+Date 18-04-2021
+Complete == 21-04-2021
+
 Find a key??
 
 You are provided with 3 numbers : input1 , input2 input 3;
