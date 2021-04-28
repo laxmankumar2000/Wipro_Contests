@@ -2,6 +2,11 @@ package Contest1;
 /*
 
 program 2
+
+Program Date == 18-04-2021
+Complete Date == 27/04/2021
+
+
 write a program that forms a new sentence upon tailing an input as per the below algorithm.
     shift hte alphabets N number of times in FORWARD mode, where N is the length of a particular word in the given string.
 
